@@ -3,7 +3,6 @@ A responsive React.js frontend web application designed to help nonprofits manag
 This application demonstrates a real-world use case for a nonprofit organization like She Supply, providing an intuitive interface for managing donation inventory.
 * https://img.shields.io/badge/React-18.2.0-blue
 * https://img.shields.io/badge/Tailwind-CSS-38B2AC
-* https://img.shields.io/badge/License-MIT-green
 
 # Project Overview
 * Add Donation Items: Input new items with name and category
